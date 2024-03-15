@@ -1,0 +1,28 @@
+{
+  "name": "rn-splash-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pd185197/rn-splash-page.git"
+  },
+  "author": "Peyal Dhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pd185197/rn-splash-page/issues"
+  },
+  "homepage": "https://github.com/pd185197/rn-splash-page#readme",
+  "dependencies": {
+    "@types/react": "18.0.26",
+    "native-base": "3.4.28",
+    "react": "18.2.0",
+    "react-native": "0.71.4",
+    "@react-navigation/stack": "6.3.16",
+    "@react-navigation/native": "6.1.6",
+    "react-native-webview": "12.2.1"
+  }
+}
