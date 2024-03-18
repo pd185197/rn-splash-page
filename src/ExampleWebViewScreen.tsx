@@ -34,7 +34,7 @@ export const ExampleWebViewScreen = ({ navigation }: props) => {
     <View style={{ flex: 1 }}>
       <WebView
         startInLoadingState
-        source={{ uri: "https://github.com/facebook/react-native" }}
+        source={{ uri: "https://www.ncrvoyix.com/banking" }}
       />
     </View>
   );
