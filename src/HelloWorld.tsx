@@ -100,7 +100,7 @@ export const HelloWorldScreen = ({
       </Button>
 
       <Button
-        onPress={() => openDeepLink("cma00519://InvalidLink")}
+        onPress={() => openDeepLink("cmaerror00519://InvalidLink")}
         _pressed={{ bg: "#b1e004" }}
         bg="#90b800"
         mx="6"
